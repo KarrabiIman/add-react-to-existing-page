@@ -1,0 +1,2 @@
+for run this app correctly you must run below command in cmd:
+	%PROJECT_FOLDER%>   npx babel --watch src --out-dir . --presets react-app/prod 
